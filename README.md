@@ -70,7 +70,3 @@ Contribuições são bem-vindas! Para sugerir melhorias:
 
 ## Autor
 Leonardo de Goes da Silva e Vithor Augusto Andrade - Turma 1U - Cibersegurança
-
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
