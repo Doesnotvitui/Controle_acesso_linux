@@ -5,18 +5,6 @@ Este repositório contém atividades relacionadas à administração de usuário
 
 As tarefas são baseadas em um cenário fictício onde a segurança do sistema deve ser garantida, aplicando conceitos de controle de acesso para diferentes grupos de usuários.
 
-## Estrutura do Projeto
-O repositório está organizado da seguinte forma:
-
-```
-/
-|-- usuarios_grupos.sh   # Script para criação de usuários e grupos
-|-- organizacao_arquivos.sh  # Script para criação de diretórios e arquivos
-|-- permissoes.sh  # Script para configurar permissões de acesso
-|-- protecao_sistema.sh  # Script para restringir acessos indesejados
-|-- README.md  # Documentação do repositório
-```
-
 ## Objetivos
 
 ### 1. Criação de Usuários e Grupos
