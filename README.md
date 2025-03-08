@@ -36,37 +36,11 @@ O repositório está organizado da seguinte forma:
 ### 4. Proteção do Sistema
 - Implementar restrições para impedir acessos indesejados.
 - Impedir que "Lorde Sith" navegue pelo sistema.
-
-## Como Executar os Scripts
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/repositorio.git
-   cd repositorio
-   ```
-2. Dê permissão de execução aos scripts:
-   ```sh
-   chmod +x *.sh
-   ```
-3. Execute os scripts na ordem correta:
-   ```sh
-   sudo ./usuarios_grupos.sh
-   sudo ./organizacao_arquivos.sh
-   sudo ./permissoes.sh
-   sudo ./protecao_sistema.sh
-   ```
-
+- 
 ## Tecnologias Utilizadas
 - **Linux** (Distribuição Debian/Ubuntu recomendada)
 - **Bash Scripting**
 - **Comandos de gerenciamento de usuários e permissões**
-
-## Contribuição
-Contribuições são bem-vindas! Para sugerir melhorias:
-1. Fork o repositório.
-2. Crie um branch: `git checkout -b minha-feature`
-3. Commit suas alterações: `git commit -m "Minha contribuição"`
-4. Push para o branch: `git push origin minha-feature`
-5. Abra um Pull Request.
 
 ## Autor
 Leonardo de Goes da Silva e Vithor Augusto Andrade - Turma 1U - Cibersegurança
